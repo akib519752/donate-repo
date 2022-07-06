@@ -1,0 +1,192 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+.donate-container {
+    margin-bottom: 100px;
+    text-align: center;
+    height: 600px;
+    color: white;
+
+}
+
+.top-banner {
+    background-image: url(images/donation13.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.help-text {
+    padding-top: 30px;
+}
+
+.help-text h1 {
+    font-size: 60px;
+}
+
+.donate-button {
+    text-decoration: none;
+    color: white;
+    padding: 10px 20px;
+    background-color: tomato;
+    border-radius: 5px;
+}
+
+.amount-donate {
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+.amount-donate h1 {
+    font-size: 40px;
+}
+
+.taka-amount {
+    margin-left: 10%;
+    width: 80%;
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 100px;
+}
+
+.money {
+    height: 100px;
+    width: 120px;
+    background-color: rgb(221, 215, 203);
+    border-radius: 5px;
+}
+
+.money h2 {
+    padding-top: 15px;
+}
+
+.red-color {
+    color: red;
+    border: 1px solid red;
+    background-color: rgb(235, 192, 192);
+}
+
+.donate-plan {
+    text-align: center;
+}
+
+.donate-plan h1 {
+    font-size: 40px;
+}
+
+.card-donate {
+    padding: 0 50px 0 50px;
+    display: flex;
+}
+
+.food-part {
+
+    padding-top: 20px;
+    margin: 10px;
+    background-color: rgb(184, 235, 236);
+    border-radius: 10px;
+    height: 250px;
+}
+
+.shelter-part {
+
+    padding-top: 20px;
+    margin: 10px;
+    background-color: rgb(236, 184, 232);
+    border-radius: 10px;
+    height: 250px;
+}
+
+.education-part {
+
+    padding-top: 20px;
+    margin: 10px;
+    background-color: rgb(238, 237, 192);
+    border-radius: 10px;
+    height: 250px;
+}
+
+.live-depends {
+    display: flex;
+    text-align: left;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+.half-width {
+    width: 40%;
+    margin-left: 100px;
+    margin-top: 20px;
+
+}
+
+#donate-image {
+    width: 90%;
+    border-radius: 5px;
+}
+
+.half-text {
+    padding-top: 10px;
+}
+
+.live-depends h1 {
+    font-size: 40px;
+}
+
+.update-container h1 {
+    font-size: 40px;
+}
+
+.update-container {
+    margin-top: 100px;
+    text-align: center;
+
+}
+
+.form-part {
+    height: 200px;
+    width: 700px;
+    margin-left: 350px;
+    background-color: antiquewhite;
+
+}
+
+.form-value {
+    padding-top: 85px;
+}
+
+.email-part {
+    height: 30px;
+    width: 250px;
+    background-color: rgb(201, 197, 197);
+    border-radius: 5px;
+}
+
+.subscribe-part {
+    height: 35px;
+    width: 100px;
+    background-color: #FF5959;
+    color: white;
+    border-radius: 5px;
+    margin-left: -5px;
+
+}
+
+.humble-part {
+    margin-top: 100px;
+    text-align: center;
+    border: 1px solid black;
+    padding: 5%;
+    background-color: black;
+    color: white;
+}
+
+.humble-text {
+    font-style: italic;
+    color: #FF5959;
+}
+
+.copy {
+    text-align: center;
+}
